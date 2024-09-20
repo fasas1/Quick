@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\quicklogistics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:quicklogistics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\updatedriverdto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\updatedriverdto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\createdriverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\irepository\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\irepository\\ishipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\irepository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\irepository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\irepository\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\irepository\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\models\\dto\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:models\\dto\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\quicklogistics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:quicklogistics.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240821095044_addvehiclemodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240821095044_addvehiclemodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822101825_addanewdriveridtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822101825_addanewdriveridtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822101527_seeddriverid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822101527_seeddriverid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822093444_adddriveridtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822093444_adddriveridtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822090028_seeddriverdatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822090028_seeddriverdatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240821142136_adddrivertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240821142136_adddrivertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240821132059_seedvehicledatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240821132059_seedvehicledatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822122147_seedandmodelcollectionfromvehicleanddrivertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822122147_seedandmodelcollectionfromvehicleanddrivertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|c:\\users\\homepc\\source\\repos\\quicklogistics\\migrations\\20240822121118_addshipmentdatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04B0A0-61A9-49D3-9641-A21E216637B7}|QuickLogistics.csproj|solutionrelative:migrations\\20240822121118_addshipmentdatatodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\ShipmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipmentController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\ShipmentController.cs",
+              "RelativeToolTip": "Controllers\\ShipmentController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:09:53.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:30:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:29:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\ShipmentDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\ShipmentDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\ShipmentDto.cs",
+              "RelativeToolTip": "Models\\Dto\\ShipmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:16.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\ShipmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ShipmentRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\ShipmentRepository.cs",
+              "RelativeToolTip": "Repository\\ShipmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:11:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "Models\\Shipment.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Shipment.cs",
+              "RelativeToolTip": "Models\\Shipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:56:45.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:54:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:26:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "Controllers\\DriverController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:22:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240822122147_SeedAndModelCollectionFromVehicleAndDriverToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822122147_SeedAndModelCollectionFromVehicleAndDriverToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822122147_SeedAndModelCollectionFromVehicleAndDriverToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822122147_SeedAndModelCollectionFromVehicleAndDriverToDB.cs",
+              "RelativeToolTip": "Migrations\\20240822122147_SeedAndModelCollectionFromVehicleAndDriverToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:21:47.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:37:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240822121118_AddShipmentDataToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822121118_AddShipmentDataToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822121118_AddShipmentDataToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822121118_AddShipmentDataToDB.cs",
+              "RelativeToolTip": "Migrations\\20240822121118_AddShipmentDataToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:11:18.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:15:15.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateDriverDto..cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\UpdateDriverDto..cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UpdateDriverDto..cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\UpdateDriverDto..cs",
+              "RelativeToolTip": "Models\\Dto\\UpdateDriverDto..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:09:52.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:11:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuickLogistics.csproj",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\QuickLogistics.csproj",
+              "RelativeDocumentMoniker": "QuickLogistics.csproj",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\QuickLogistics.csproj",
+              "RelativeToolTip": "QuickLogistics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T09:19:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDriverDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\CreateDriverDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CreateDriverDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\CreateDriverDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CreateDriverDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:08:29.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DriverDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\DriverDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\DriverDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\DriverDto.cs",
+              "RelativeToolTip": "Models\\Dto\\DriverDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:18:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IShipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IShipmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IShipmentRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IShipmentRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IShipmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:01:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IVehicleRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:47:54.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\DriverRepository.cs",
+              "RelativeToolTip": "Repository\\DriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:02:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\VehicleRepository.cs",
+              "RelativeToolTip": "Repository\\VehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:53:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IDriverRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IDriverRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IDriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:04:15.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\CreateVehicleDto.cs",
+              "RelativeToolTip": "Models\\Dto\\CreateVehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:23:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240822101825_AddANewDriverIDToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822101825_AddANewDriverIDToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822101825_AddANewDriverIDToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822101825_AddANewDriverIDToDB.cs",
+              "RelativeToolTip": "Migrations\\20240822101825_AddANewDriverIDToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:18:25.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\VehicleDto.cs",
+              "RelativeToolTip": "Models\\Dto\\VehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:12:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240822101527_SeedDriverId.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822101527_SeedDriverId.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822101527_SeedDriverId.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822101527_SeedDriverId.cs",
+              "RelativeToolTip": "Migrations\\20240822101527_SeedDriverId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:15:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240822093444_AddDriverIdToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822093444_AddDriverIdToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822093444_AddDriverIdToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822093444_AddDriverIdToDB.cs",
+              "RelativeToolTip": "Migrations\\20240822093444_AddDriverIdToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:34:45.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Models\\APIResponse.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:24:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\UpdateVehicleDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UpdateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Models\\Dto\\UpdateVehicleDto.cs",
+              "RelativeToolTip": "Models\\Dto\\UpdateVehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:41:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240822090028_SeedDriverDataToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822090028_SeedDriverDataToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240822090028_SeedDriverDataToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240822090028_SeedDriverDataToDB.cs",
+              "RelativeToolTip": "Migrations\\20240822090028_SeedDriverDataToDB.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:00:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240821142136_AddDriverToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821142136_AddDriverToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240821142136_AddDriverToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821142136_AddDriverToDB.cs",
+              "RelativeToolTip": "Migrations\\20240821142136_AddDriverToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:21:36.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240821132059_SeedVehicleDataToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821132059_SeedVehicleDataToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240821132059_SeedVehicleDataToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821132059_SeedVehicleDataToDB.cs",
+              "RelativeToolTip": "Migrations\\20240821132059_SeedVehicleDataToDB.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:21:00.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T09:25:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuickLogistics.http",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\QuickLogistics.http",
+              "RelativeDocumentMoniker": "QuickLogistics.http",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\QuickLogistics.http",
+              "RelativeToolTip": "QuickLogistics.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-21T10:26:14.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:16:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240821095044_AddVehicleModelToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821095044_AddVehicleModelToDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240821095044_AddVehicleModelToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\QuickLogistics\\Migrations\\20240821095044_AddVehicleModelToDB.cs",
+              "RelativeToolTip": "Migrations\\20240821095044_AddVehicleModelToDB.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:50:44.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

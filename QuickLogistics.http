@@ -1,0 +1,6 @@
+@QuickLogistics_HostAddress = http://localhost:5010
+
+GET {{QuickLogistics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
